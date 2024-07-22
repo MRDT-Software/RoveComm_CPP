@@ -1,7 +1,6 @@
 [submodule "data/RoveComm"]
 	path = data/RoveComm
-	url = https://github.com/MissouriMRDT/RoveComm_Base.git
-    branch = embedded-2024
+	url = https://github.com/mrdt-software/RoveComm_Base.git
 [submodule "external/threadpool"]
 	path = external/threadpool
     url = https://github.com/bshoshany/thread-pool.git
